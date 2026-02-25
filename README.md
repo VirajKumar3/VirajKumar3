@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Viraj Kumar 👋
 
-<!--
-**VirajKumar3/VirajKumar3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student | MERN Developer | Frontend Enthusiast
 
-Here are some ideas to get you started:
+💻 Skills:
+- MERN Stack
+- Node.js, Express.js, React.js
+- MongoDB
+- React.js
+- JavaScript
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Projects:
+- Claramed – Healthcare Platform
+- Virtual Mouse using MediaPipe
+- Helpdesk Ticket Manager
+- MERN Portfolio Website
+
+📫 Connect with me:
+LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/viraj83409955/)
