@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Viraj Kumar</h1>
-<h3 align="center">Software Developer Intern @ DiArchGo | MERN Stack Developer | Building Scalable Web Solutions</h3>
+<h3 align="center">SDE Intern @ DiArchGo | MERN Stack Developer | Building Scalable Web Solutions</h3>
 
 ---
 
@@ -58,8 +58,9 @@ Personal developer portfolio with modern UI and smooth animations
 
 ## 🤝 Connect with Me
 
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
-- 📧 Email: your-email@gmail.com
+- 💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/viraj83409955/)
+- 📧 Email: virajkumar995512@gmail.com
+- 💬 Whatsapp: https://wa.me/919955127545
 
 ---
 
